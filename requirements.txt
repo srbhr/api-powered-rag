@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_community
+langchain-ollama
+python-dotenv
+requests
+apideck-unify
+pypdf
+watchdog
+transformers
